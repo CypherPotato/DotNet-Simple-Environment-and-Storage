@@ -1,0 +1,9 @@
+C:\Users\gscat\source\repos\EnviromentSettings\EnviromentSettings\bin\Debug\netstandard2.1\EnviromentSettings.deps.json
+C:\Users\gscat\source\repos\EnviromentSettings\EnviromentSettings\bin\Debug\netstandard2.1\EnviromentSettings.dll
+C:\Users\gscat\source\repos\EnviromentSettings\EnviromentSettings\bin\Debug\netstandard2.1\EnviromentSettings.pdb
+C:\Users\gscat\source\repos\EnviromentSettings\EnviromentSettings\obj\Debug\netstandard2.1\EnviromentSettings.csprojAssemblyReference.cache
+C:\Users\gscat\source\repos\EnviromentSettings\EnviromentSettings\obj\Debug\netstandard2.1\EnviromentSettings.AssemblyInfoInputs.cache
+C:\Users\gscat\source\repos\EnviromentSettings\EnviromentSettings\obj\Debug\netstandard2.1\EnviromentSettings.AssemblyInfo.cs
+C:\Users\gscat\source\repos\EnviromentSettings\EnviromentSettings\obj\Debug\netstandard2.1\EnviromentSettings.csproj.CoreCompileInputs.cache
+C:\Users\gscat\source\repos\EnviromentSettings\EnviromentSettings\obj\Debug\netstandard2.1\EnviromentSettings.dll
+C:\Users\gscat\source\repos\EnviromentSettings\EnviromentSettings\obj\Debug\netstandard2.1\EnviromentSettings.pdb

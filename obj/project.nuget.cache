@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9X4EcwaZe46f67KPc4AzPP1tSKVri7j0iQnNelmCJAXEU5+hmLiq9KjZv6IeQe0xJGWL64nZfrO/Py3gctSrlQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gscat\\source\\repos\\EnviromentSettings\\EnviromentSettings\\EnviromentSettings.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gscat\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
