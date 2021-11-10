@@ -16,6 +16,7 @@ Provides an simple environment file handling and application storage based on ap
 	   string filename = ".env";
 	   envVariables = new EnvironmenSettings(filename);
 	   envVariables.Flush(); // read contents from the file
+	   envVariables.Flush(true); // read contents from the file and creates the file if it doens't exists
    }
    ```
 
@@ -25,17 +26,11 @@ Provides an simple environment file handling and application storage based on ap
 	string defaultValue    = "abc123"; // optional, default null
 	string variableContent = envVariables.Get(variableName, defaultValue);
 	```
-	
-- Set an variable value:
-	```C#
-	string variableName    = "APP_NAME";
-	string variableValue   = "Hello World";
-	string variableContent = envVariables.Set(variableName, variableValue);
 
-	// outputs:
-	// APP_NAME=Hello World
+- Creates an dynamic object from environment:
+	```C#
+	string variableContent = envVariables.Get(variableName, defaultValue);
 	```
-	
 ## Using the `ApplicationStorage` class
 
 - Bootstrap the application storage instance.
